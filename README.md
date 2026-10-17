@@ -1,6 +1,6 @@
 EN
 # NTE-Backup-Log
-This is a backup log that lets you see what was newly added in FModel whenever NTE receives an update (including small patches and hotfixes).
+This log shows what new content has been added in FModel whenever an NTE update is released.
 **Note:** Backups for the Chinese version (CN) are also included.
 # File Addition Method Update (July 16, 2026 JST)
 **I've added new CN and GL categories!**
@@ -12,7 +12,7 @@ For updates where additional data, story content, etc. are added in the second h
 
 JA
 # NTE-Backup-Log
-NTEのアップデート(小さいアプデ等)が来た時にFModelで何が新しく追加されたのかわかるものです。
+NTEのアップデートが来た時にFModelで何が新しく追加されたのかわかるものです。
 **※中国版(CN)のバックアップも含まれてます**
 # ファイル追加方法の更新（2026年7月16日 JST）
 **CN版とGL版のカテゴリを新たに追加しました！
