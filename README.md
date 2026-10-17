@@ -5,7 +5,10 @@ This is a backup log that lets you see what was newly added in FModel whenever N
 # File Addition Method Update (July 16, 2026 JST)
 **I've added new CN and GL categories!**
 **The current files will stay there for archive purposes, and future updates will be posted under their respective categories.**
-
+# Future Upload Policy
+Updates released solely to fix bugs and similar issues will not be uploaded here.
+Major updates will be added.
+For content that receives additional data, story content, etc. in the second half of an update, such as **Akane Rin**, backup files will be added!
 
 JA
 # NTE-Backup-Log
@@ -14,3 +17,7 @@ NTEのアップデート(小さいアプデ等)が来た時にFModelで何が新
 # ファイル追加方法の更新（2026年7月16日 JST）
 **CN版とGL版のカテゴリを新たに追加しました！
 現在あるファイルはアーカイブとしてそのまま残し、今後のアップデートはそれぞれ対応するカテゴリに投稿していきます。**
+# 今後の追加方法
+バグなどの修正で実施されたアプデに関してｈがここにあげません
+大きなアプデでは追加します
+例えば**明音凛**のように後半にデータやストーリーなどが追加追加されるものはバックアップファイルを追加します！
